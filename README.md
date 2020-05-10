@@ -8,3 +8,5 @@ This contains C++ programs for implementation of Data Structures and Data Algori
 4. Linked List
 5. Doubly Linked List
 6. Circular Linked List
+7. Searching Algorithms- Linear Search and Binary Search
+8. Sorting algorithms- insertion sort,slection sort,bubble sort,quick sort etc.
